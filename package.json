@@ -1,0 +1,22 @@
+{
+  "name": "@akaustav/npm-demo-pkg",
+  "version": "1.0.0",
+  "description": "A demo package for learning npm module lifecycle",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akaustav/npm-demo-pkg.git"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "akaustav <akaustav@gmail.com> (https://github.com/akaustav)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akaustav/npm-demo-pkg/issues"
+  },
+  "homepage": "https://github.com/akaustav/npm-demo-pkg#readme"
+}
