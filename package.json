@@ -3,6 +3,10 @@
   "version": "3.0.1",
   "description": "A demo package for learning npm module lifecycle",
   "main": "index.js",
+  "dependencies": {
+    "colors": "^1.1.2"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,8 +22,5 @@
   "bugs": {
     "url": "https://github.com/akaustav/npm-demo-pkg/issues"
   },
-  "homepage": "https://github.com/akaustav/npm-demo-pkg#readme",
-  "dependencies": {
-    "colors": "^1.1.2"
-  }
+  "homepage": "https://github.com/akaustav/npm-demo-pkg#readme"
 }
