@@ -1,6 +1,6 @@
 {
   "name": "@akaustav/npm-demo-pkg",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "A demo package for learning npm module lifecycle",
   "main": "index.js",
   "scripts": {
