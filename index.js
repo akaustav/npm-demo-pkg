@@ -1,6 +1,6 @@
 const colors = require('colors');
 
-exports.printMsg = function(color) {
+exports.printMsg = function(color, msg) {
   if (!color) color = 'red';
-  console.log('This message is from the npm-demo-pkg module.'[color]);
+  console.log(msg[color]);
 }
